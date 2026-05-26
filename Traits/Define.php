@@ -1,0 +1,3 @@
+trait TraitName {
+  // some code...
+}
